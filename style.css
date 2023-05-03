@@ -1,0 +1,7 @@
+body {
+    background-image:url(background.jpg);
+}
+#label {
+    height: 30px;
+    width: 200px;
+}
